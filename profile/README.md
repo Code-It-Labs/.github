@@ -1,6 +1,4 @@
-# Code It Labs
-
-**Sua empresa com outros olhos.**
+<p align="center"><img src="./banner.svg" alt="Code It Labs: sua empresa com outros olhos." width="100%"></p>
 
 Nós criamos automações de processos, sites e sistemas sob medida para empresas. Antes de propor qualquer coisa, nós entendemos como a sua empresa trabalha hoje.
 
