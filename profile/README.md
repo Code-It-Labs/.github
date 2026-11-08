@@ -8,10 +8,6 @@ Nós criamos automações de processos, sites e sistemas sob medida para empresa
 - **Sites:** nós desenhamos e publicamos o site da sua empresa.
 - **Sistemas sob medida:** ferramentas feitas a partir do jeito como o seu trabalho acontece.
 
-## Código aberto
-
-- [extensao-fipe](https://github.com/Code-It-Labs/extensao-fipe): extensão gratuita para Chrome e Firefox que mostra o valor da Tabela FIPE e a diferença para o preço pedido em anúncios de carro do Facebook Marketplace e da OLX.
-
 ## Fale com a gente
 
 - Site: [codeitlabs.com.br](https://codeitlabs.com.br)
